@@ -1,0 +1,35 @@
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body & Background */
+body {
+  font-family: Arial, sans-serif;
+  background-color: gray;
+  padding: 20px;
+}
+
+/* Header */
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #333;
+  color: white;
+  padding: 30px 40px;
+}
+
+header .logo {
+  font-size: 24px;
+}
+
+header .nav a {
+  color: white;
+  text-decoration: none;
+  margin-left: 15px;
+  font-size: 18px
+
+
+          
